@@ -1,6 +1,6 @@
 # boiler_plate
 
-A new Flutter project.
+Flutter Version :- 3.22.0
 
 ## Getting Started
 
